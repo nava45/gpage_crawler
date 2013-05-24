@@ -22,4 +22,6 @@ see the example.py
 
 Disclaimer:
 ===========
-If google tends to block anything for your untidy hacks you are responsible for your deed
+If google tends to block anything for your untidy hacks you got to be careful.
+
+I confess i am using third part modules and libraries also.
